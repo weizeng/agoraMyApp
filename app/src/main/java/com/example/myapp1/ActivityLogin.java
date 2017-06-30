@@ -19,8 +19,8 @@ import java.security.NoSuchAlgorithmException;
 import java.util.*;
 
 public class ActivityLogin extends Activity {
-    public static final String appID = "283093f77e634ddf8175a93db60fdfc7";
-    public static final String certificate = "277d135966534bb9ad4f0b309e8f74ca";
+    public static final String appID = "";
+    public static final String certificate = "";
     public static final boolean enableMediaCertificate =  true;
 
     private AgoraAPIOnlySignal m_agoraAPI;
