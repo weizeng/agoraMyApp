@@ -1,0 +1,12 @@
+app/src/main/jniLibs
+import-summary.txt
+*.iml
+app/build/
+.gradle
+gradle
+local.properties
+.idea
+.DS_Store
+build
+captures
+.externalNativeBuild
